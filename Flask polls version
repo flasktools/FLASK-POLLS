@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         Flask-polls-version
+// @version      1.0
+// @description  control version of Flask-polls
+// @author       flasktools
+// @copyright    2019+, flasktools
+// @license      GNU 3.0
+
+// @updateURL    https://github.com/flasktools/flasktools/raw/main/Flask-polls-version.user.js
+// @downloadURL  https://github.com/flasktools/flasktools/raw/main/Flask-polls-version.user.js
+
+// ==/UserScript==
+
+var latest_version = '1.7';
