@@ -11,4 +11,4 @@
 
 // ==/UserScript==
 
-var latest_version = '1.7';
+var latest_number = '1.7';
