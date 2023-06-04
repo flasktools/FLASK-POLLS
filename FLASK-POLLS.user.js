@@ -450,7 +450,7 @@ var LANG = {
         if (number_text === '') {
                     if (number < latest_number) {
                         number_text = "<div class='number_icon red'></div><div class='number_text'>" + getText('settings', 'number_old') + "</div><div class='number_icon red'></div>" +
-                            '<a class="number_text" href="https://greasyfork.org/scripts/422471-flask-polls/code/FLASK-POLLS.user.js" target="_top">--> Update</a>';
+                            '<a class="number_text" href="https://github.com/flasktools/FLASK-POLLS/raw/main/FLASK-POLLS.user.js" target="_top">--> Update</a>';
                         number_color = 'crimson';
                     } else if (number == latest_number) {
                         number_text = "<div class='number_icon green'></div><div class='number_text'>" + getText('settings', 'number_new') + "</div><div class='number_icon green'></div>";
