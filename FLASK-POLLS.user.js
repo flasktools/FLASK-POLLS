@@ -9,6 +9,8 @@
 // @match		https://*.grepolis.com/game/*
 // @match		https://*.forum.grepolis.com/*
 // @match		https://flasktools.altervista.org/*
+// @updateURL   https://github.com/flasktools/FLASK-POLLS/raw/main/FLASK-POLLS.user.js
+// @downloadURL https://github.com/flasktools/FLASK-POLLS/raw/main/FLASK-POLLS.user.js
 // @require		http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @icon		https://flasktools.altervista.org/images/Forum.png
 // @icon64		https://flasktools.altervista.org/images/Forum.png
